@@ -1,0 +1,14 @@
+layout_spectrum: 0.44869854184798896
+typography_spectrum: 0.8896766635589302
+color:
+  brandStrength: 0.7598818726837635
+  lightness: 0.7447877845261246
+  saturation: 0.6193954048212618
+  rhythmicContrast: 0.7122326863463968
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: DevModo
